@@ -281,3 +281,207 @@
 
 ![](https://gitee.com/gainmore/imglib/raw/master/img/20211219215959.png)
 
+## 节奏与节拍
+
+### 节奏
+
+> - 节奏：生活中平衡、协调、有序地进行称为节奏。
+> - 重音：相对突出的音。
+> - 节拍：有规律的强弱时间片段地循环。
+> - 小节：从一个节拍重音到下一个节拍重音之间的片段称为小节。
+
+**小节线与终止线**
+
+> - 每个小节开始的音会更重一些，所以称之为 **节拍重音**；
+> - 终止线由一条细线和一条粗线组成。
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211220095729.png)
+
+**拍号与单位拍**
+
+> - 用固定的音值来表示构成节拍的每一个时间片段；
+> - 这个固定的音值，就称为 **单位拍**；
+> - 上下两个数字构成一个 **拍号**；
+> - 比如 2 / 4 表示的是：以四分音符为一个单位拍，每小节有两拍。
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211220095957.png)
+
+**双纵线**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211220100418.png)
+
+**4/4拍**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211220100638.png)
+
+**强拍**
+
+> 每小节的第一个拍，称为 **强拍**。
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211220100826.png)
+
+**弱起**
+
+> 音乐由某拍开始进行，但该拍不是小节的第一拍，该拍称为 **弱起**。
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211220101715.png)
+
+**不完全小节**
+
+> - 如果单位拍时值偏大，可以将多个音符合并为一拍，如在 2 / 2 拍中，可以将两个四分音符看成一个单位拍；
+> - 弱起的小节一般为 **不完全小节**，它不算作一个完整小节，所以是从下一个小节开始计数的；
+> - 如果末尾的小节也是不完全小节，那么可以视它为一个完整小节（将弱起小节的时值加到末尾小节）。
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211220102456.png)
+
+### 拍子的种类
+
+> 拍子可以分为 **单拍子** 和 **复拍子**。
+
+#### **单拍子**
+
+> - 以单纯音符为单位拍，称为 **单拍子**；
+> - 常见的有 **2 / 4 拍**、**3 / 4 拍**、**4 / 4 拍**、**2 / 8 拍**、**3 / 8 拍**、**4 / 8 拍**。
+
+#### **复拍子**
+
+> - 以附点音符为单位拍，称为 **复拍子**；
+> - 常见的有 **6 / 8 拍**、**9 / 8 拍**、**12 / 8 拍**、**12 / 16 拍**、**6 / 4 拍**。
+
+**6 / 8 拍**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211220105620.png)
+
+**12 / 16 拍**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211220110346.png)
+
+**6 / 4 拍**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211220112945.png)
+
+其中，复拍子又可以分为 **混合拍子** 和 **变拍子**。
+
+##### 混合拍子
+
+> 两个或两个以上单拍子组合起来称为 **混合拍子**。例如：5 / 8（混合拍子） = 2 / 8（单拍子） + 3 / 8（单拍子）。
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211220113554.png)
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211221103049.png)
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211221103708.png)
+
+##### 变拍子
+
+> 各种拍子交替出现，称为 **变拍子**。
+>
+> 变拍子又可以分为：**单位拍类型不变** 和 **单位拍类型改变** 的两种变拍子。
+
+**单位拍类型不变**
+
+> 如：9 / 8  ->  6 / 8  ->  9 / 8  ->  6 / 8
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211221104230.png)
+
+**单位拍类型改变**
+
+> 如单拍子变为复拍子。
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211221104911.png)
+
+### 节奏型
+
+> 在音乐中已经形成固定模式，具有典型意义的节奏组合称为 **节奏型**。
+
+**按等份划分的平均节奏型**
+
+- **全音符平均划分节奏型**
+
+  ![](https://gitee.com/gainmore/imglib/raw/master/img/20211222103341.png)
+
+- **二分音符平均划分节奏型**
+
+  ![](https://gitee.com/gainmore/imglib/raw/master/img/20211222103416.png)
+
+- **附点音符平均划分节奏型**
+
+  ![](https://gitee.com/gainmore/imglib/raw/master/img/20211222103440.png)
+
+**按等份划分的非平均节奏型**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211222103651.png)
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211222104006.png)
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211222104212.png)
+
+**按附点音符平均划分的节奏型**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211222104448.png)
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211222104655.png)
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211222104922.png)
+
+### 各种拍子的节奏组合
+
+**2 / 4 拍节奏组合规范**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211222105052.png)
+
+**4 / 4 拍节奏组合规范**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211222105220.png)
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211222105428.png)
+
+**6 / 8 拍节奏组合规范**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211222110419.png)
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211222110520.png)
+
+### 休止符的组合方式
+
+**4 / 4 拍中休止符的组合方法**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211223103508.png)
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211223103659.png)
+
+**3 / 4 拍中休止符的组合方法**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211223103809.png)
+
+**6 / 8 拍中休止符的组合方法**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211223104016.png)
+
+### 符尾的连接
+
+**符尾在不同拍号中的基本连接**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211223104406.png)
+
+**第一个音符保持时值的方法**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211223104951.png)
+
+### 连音符
+
+> 平均划分中特殊划分的音符。比如说一个全音符可以分为 2 个二分音符，也可以分为 4 个四分音符，但如果要分为 3 个音符就要用到连音符。连音符总的时值不变，只是被平均划分成了多个音符。
+
+**单纯音符的划分**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211223105556.png)
+
+**连音符的具体划分方式**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211223105837.png)
+
+**附点音符的划分方式**
+
+![](https://gitee.com/gainmore/imglib/raw/master/img/20211223110435.png)
+
+ 
